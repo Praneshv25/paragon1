@@ -1,4 +1,7 @@
 /* myStyle.css */
+body {
+  background-color: #F0F8FF;
+}
 .title {
   color: #3c3b6e;  
   font-size: 100px;
@@ -10,7 +13,6 @@
 }    
 .titleBorder {
   background-repeat: no-repeat;
-  background-color: #F0F8FF;
   display: inline-table;
  
 }
@@ -32,4 +34,3 @@ ul {
   float: left;
   margin-top: -16px;
 }
- 
